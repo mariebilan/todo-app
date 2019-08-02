@@ -1,1 +1,0 @@
-{"version":3,"sources":["C:/Users/Marie/Desktop/hotdog/src/C:/Users/Marie/Desktop/hotdog/src/index.css"],"names":[],"mappings":"AAAA,eAEC,0BAA4B,AAC5B,kBAAoB,CACpB","file":"main.f2f77677.chunk.css","sourcesContent":["button,\n.button {\n\tmargin-bottom: 0 !important;\n\tmargin-right: .5rem;\n}\n"]}
